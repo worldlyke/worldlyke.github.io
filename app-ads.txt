@@ -1,0 +1,5 @@
+# app-ads.txt di Meltaway: SEGNAPOSTO, NON PUBBLICARE COSÌ.
+# Quando AdMob mostra la riga per il tuo account (AdMob > App > app-ads.txt), sostituisci la riga sotto con quella
+# fornita, togli il "#" iniziale e cancella queste righe di commento. check.sh fallisce finché resta il segnaposto.
+# Il file deve stare nella radice del dominio del sito sviluppatore indicato in Play Console (vedi README.md).
+# google.com, pub-[ID editore AdMob], DIRECT, f08c47fec0942fa0
